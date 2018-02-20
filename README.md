@@ -7,7 +7,7 @@ BonsaiFog is an _active learning_ activity to introduce Fog computing to CS stud
 > accepted in [3rd IEEE International Conference on Fog and Mobile Edge Computing (FMEC 2018)](http://emergingtechnet.org/FMEC2018/), <br>
 > Barcelona, Spain, 2018.
 
-If you wish to reuse source code in this repo, please cite the above mentioned article.
+If you wish to reuse this code for other research, please cite the above mentioned article.
 
 To design the activity, we took inspiration from the following use case:
 
