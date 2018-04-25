@@ -1,10 +1,10 @@
 ![Bonsai](./img/logo.png)
 
-BonsaiFog is an _active learning_ activity to introduce Fog computing to CS students. It is described in 
+BonsaiFog is an app which can be used to run an _active learning_ lab to introduce Fog computing to CS students. It is described in 
 
 > [Antonio Brogi](http://pages.di.unipi.it/brogi), [Stefano Forti](http://pages.di.unipi.it/forti), [Ahmad Ibrahim](http://pages.di.unipi.it/ibrahim), [Luca Rinaldi](http://lucar.in) <br>
 > **[Bonsai in the Fog: an Active Learning Lab with Fog Computing](http://pages.di.unipi.it/forti/research/)** <br>
-> accepted in [3rd IEEE International Conference on Fog and Mobile Edge Computing (FMEC 2018)](http://emergingtechnet.org/FMEC2018/), <br>
+> in Proceedings of the [3rd IEEE International Conference on Fog and Mobile Edge Computing (FMEC 2018)](http://emergingtechnet.org/FMEC2018/), <br>
 > Barcelona, Spain, 2018.
 
 If you wish to reuse this code for other research, please cite the above mentioned article.
